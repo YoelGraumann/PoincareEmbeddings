@@ -1,5 +1,5 @@
 # Poincaré Embeddings – Experiments and Extensions
-This project explores the performance and robustness of Poincaré embeddings, a type of hyperbolic embedding used to capture hierarchical structures in data. The work is divided into two main phases:
+This project explores the performance and robustness of Poincaré embeddings, a type of hyperbolic embedding used to capture hierarchical structures in data. The work is divided into two main phases: please read Poincare Embedding Summary.pdf for the full analysis of the findings. The ipynb files have the python code.
 
 The Project is based on this paper:Poincaré Embeddings for
 Learning Hierarchical Representations by Maximilian Nickel and Douwe Kiela
