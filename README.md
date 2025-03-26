@@ -1,4 +1,4 @@
-Poincaré Embeddings – Experiments and Extensions
+# Poincaré Embeddings – Experiments and Extensions
 This project explores the performance and robustness of Poincaré embeddings, a type of hyperbolic embedding used to capture hierarchical structures in data. The work is divided into two main phases:
 
 🔬 Phase 1: Reproducing and Stress-Testing Poincaré Embeddings
